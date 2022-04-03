@@ -14,4 +14,10 @@
   <li>Git, GitHub</li>
   <li>VS Code, Adobe Photoshop</li>
 </ul>
+<hr>
+<h3>Languages:</h3>
+<ul>
+  <li>English - A2 (Pre-intermediate) </li>
+  <li>Russian - Native</li>
+</ul>
 
